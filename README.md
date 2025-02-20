@@ -1,2 +1,2 @@
 # ML_with_Numpy
-Practices of implementation of ML algorithms
+Implementation of ML algorithms with Numpy
